@@ -18,11 +18,14 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-  - name: "about"
-    label: "About"
-    file: "src/data/about.yaml"
-    create: false
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Sub Title", name: "subtitle", widget: "string"}
-      - {label: "Body", name: "blurb", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "about"
+        label: "About"
+        file: "src/data/about.yaml"
+        create: false
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Sub Title", name: "subtitle", widget: "string"}
+          - {label: "Body", name: "blurb", widget: "markdown"}
