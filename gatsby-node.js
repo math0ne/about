@@ -83,3 +83,13 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     })
   }
 }
+
+// necessary to get gatsby build to run properly
+exports.modifyWebpackConfig = ({ config, stage }) => {
+  if (stage === "build-html") {
+    config.loader("null", {
+      test: /(mapbox-gl)\.js$/,
+      loader: "null-loader",
+    });
+  }
+};

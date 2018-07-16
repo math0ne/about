@@ -10,15 +10,28 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import Markdown from 'markdown-to-jsx';
 
 export default class IndexPage extends React.Component {
+
+  componentWillMount() {
+    // necessary so that gatsby build will work properly
+    if (typeof window !== `undefined`) {
+      //mapbox
+      var Layer = ReactMapboxGl.Layer;
+      var Feature = ReactMapboxGl.Feature;
+
+      Map = ReactMapboxGl({
+        accessToken: "pk.eyJ1IjoibWF0aDBuZSIsImEiOiJjaXRhdG1rZ3QwM2hzMnVzNnZhNG1vcXpkIn0.q2x_lVpCJvQaRaexWYtDUw",
+        interactive: false
+      });
+    }
+  }
+
   render() {
+
+    if (typeof window === `undefined`) { return null; }
     
-    //mapbox
-    var Layer = ReactMapboxGl.Layer;
-    var Feature = ReactMapboxGl.Feature;
-    const Map = ReactMapboxGl({
-      accessToken: "pk.eyJ1IjoibWF0aDBuZSIsImEiOiJjaXRhdG1rZ3QwM2hzMnVzNnZhNG1vcXpkIn0.q2x_lVpCJvQaRaexWYtDUw",
-      interactive: false
-    });
+
+  
+
 
     library.add(faFileAlt, fab, faEnvelope, faLightbulb, faUser);
 
@@ -26,7 +39,7 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-
+      
       <div className="container">
 
 
