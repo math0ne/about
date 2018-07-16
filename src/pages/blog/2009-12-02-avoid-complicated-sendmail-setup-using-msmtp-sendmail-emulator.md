@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Avoid Complicated Sendmail Setups using MSMTP Sendmail Emulator
 date: 2009-12-02T15:27:54+00:00
-permalink: /blog/2009/12/avoid-complicated-sendmail-setup-using-msmtp-sendmail-emulator/
+permalink: /blog/2009/12/avoid-complicated-sendmail-setup-using-msmtp-sendmail-emulator
 aktt_tweeted:
   - "1"
 aktt_notify_twitter:

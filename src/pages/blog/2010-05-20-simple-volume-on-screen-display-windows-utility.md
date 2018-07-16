@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Simple Volume On Screen Display (Windows Utility)
 date: 2010-05-20T17:23:00+00:00
-permalink: /blog/2010/05/simple-volume-on-screen-display-windows-utility/
+permalink: /blog/2010/05/simple-volume-on-screen-display-windows-utility
 aktt_notify_twitter:
   - 'no'
 aktt_tweeted:

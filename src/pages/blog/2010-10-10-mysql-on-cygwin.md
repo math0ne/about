@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: MySQL on Cygwin
 date: 2010-10-10T22:37:44+00:00
-permalink: /blog/2010/10/mysql-on-cygwin/
+permalink: /blog/2010/10/mysql-on-cygwin
 aktt_notify_twitter:
   - 'no'
 tags:

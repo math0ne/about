@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: PowerGrep Integration For Emacs
 date: 2012-05-08T18:12:59+00:00
-permalink: /blog/2012/05/powergrep-integration-for-emacs/
+permalink: /blog/2012/05/powergrep-integration-for-emacs
 aktt_notify_twitter:
   - 'no'
 tags:

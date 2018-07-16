@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Share Calendars in Outlook 2007 without Exchange
 date: 2008-06-17T20:25:00+00:00
-permalink: /blog/2008/06/share-calendars-in-outlook-2007-without-exchange/
+permalink: /blog/2008/06/share-calendars-in-outlook-2007-without-exchange
 tags:
   - Desktop Customization
 ---

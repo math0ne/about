@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Why I use E TextEditor
 date: 2010-03-16T11:26:18+00:00
-permalink: /blog/2010/03/why-i-use-e-texteditor/
+permalink: /blog/2010/03/why-i-use-e-texteditor
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'SEO Tip: Duplicate Content and SimpleCDN'
 date: 2010-05-20T10:20:36+00:00
-permalink: /blog/2010/05/seo-tip-duplicate-content-and-simplecdn/
+permalink: /blog/2010/05/seo-tip-duplicate-content-and-simplecdn
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

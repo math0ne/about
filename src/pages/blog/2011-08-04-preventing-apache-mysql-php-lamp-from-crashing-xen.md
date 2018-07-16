@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Preventing Apache / Mysql / PHP / LAMP from crashing xen
 date: 2011-08-04T11:36:21+00:00
-permalink: /blog/2011/08/preventing-apache-mysql-php-lamp-from-crashing-xen/
+permalink: /blog/2011/08/preventing-apache-mysql-php-lamp-from-crashing-xen
 aktt_notify_twitter:
   - 'no'
 tags:

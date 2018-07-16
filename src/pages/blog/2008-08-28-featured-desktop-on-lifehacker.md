@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Featured Desktop on Lifehacker
 date: 2008-08-28T11:48:14+00:00
-permalink: /blog/2008/08/featured-desktop-on-lifehacker/
+permalink: /blog/2008/08/featured-desktop-on-lifehacker
 tags:
   - Desktop Customization
 ---

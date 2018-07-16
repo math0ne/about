@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Tramp and NTEmacs
 date: 2010-10-14T20:16:50+00:00
-permalink: /blog/2010/10/tramp-and-ntemacs/
+permalink: /blog/2010/10/tramp-and-ntemacs
 aktt_notify_twitter:
   - 'no'
 tags:

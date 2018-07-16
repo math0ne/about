@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Sales Operation Services CMS
 date: 2008-11-22T11:53:19+00:00
-permalink: /blog/2008/11/sales-operation-services-cms/
+permalink: /blog/2008/11/sales-operation-services-cms
 tags:
   - Portfolio
 ---

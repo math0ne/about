@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Offline Documentation for Drupal
 date: 2010-05-18T14:55:33+00:00
-permalink: /blog/2010/05/offline-documentation-for-drupal/
+permalink: /blog/2010/05/offline-documentation-for-drupal
 aktt_notify_twitter:
   - 'no'
 aktt_tweeted:

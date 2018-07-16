@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Num Lock Email Indicator (AutoIt + Samurize)
 date: 2009-11-21T08:04:57+00:00
-permalink: /blog/2009/11/num-lock-email-indicator-autoit-samurize/
+permalink: /blog/2009/11/num-lock-email-indicator-autoit-samurize
 tags:
   - Desktop Customization
 ---

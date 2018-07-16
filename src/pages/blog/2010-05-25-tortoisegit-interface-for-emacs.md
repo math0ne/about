@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: TortoiseGit Interface for EMACS
 date: 2010-05-25T08:46:35+00:00
-permalink: /blog/2010/05/tortoisegit-interface-for-emacs/
+permalink: /blog/2010/05/tortoisegit-interface-for-emacs
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

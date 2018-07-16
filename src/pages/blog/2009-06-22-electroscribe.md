@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: ElectroScribe
 date: 2009-06-22T18:26:48+00:00
-permalink: /blog/2009/06/electroscribe/
+permalink: /blog/2009/06/electroscribe
 aktt_notify_twitter:
   - 'no'
 tags:

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Random Hangs on Bitbucket Pipelines Cause by Bash Login
 date: 2018-03-10T14:21:54+00:00
-permalink: /blog/2018/03/random-hangs-on-bitbucket-pipelines-cause-by-bash-login/
+permalink: /blog/2018/03/random-hangs-on-bitbucket-pipelines-cause-by-bash-login
 aktt_notify_twitter:
   - 'no'
 tags:

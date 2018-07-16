@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Remapping C-x on Emacs
 date: 2010-10-14T17:02:29+00:00
-permalink: /blog/2010/10/remapping-c-x-on-emacs/
+permalink: /blog/2010/10/remapping-c-x-on-emacs
 aktt_notify_twitter:
   - 'no'
 tags:

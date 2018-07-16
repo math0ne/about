@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Free PHP Link Directory Script
 date: 2007-11-23T08:14:39+00:00
-permalink: /blog/2007/11/free-php-link-directory-script/
+permalink: /blog/2007/11/free-php-link-directory-script
 description: Directory Page is a simple to use link directory class.
 aktt_notify_twitter:
   - 'no'

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Basecamp RSS to Text (basecamp2text)
 date: 2010-05-19T15:57:50+00:00
-permalink: /blog/2010/05/basecamp-rss-to-text-basecamp2text/
+permalink: /blog/2010/05/basecamp-rss-to-text-basecamp2text
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

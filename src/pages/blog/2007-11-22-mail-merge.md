@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Mail Merge
 date: 2007-11-22T12:08:53+00:00
-permalink: /blog/2007/11/mail-merge/
+permalink: /blog/2007/11/mail-merge
 tags:
   - Portfolio
 ---

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Recover Adobe Serial Number / Product Keys for Free
 date: 2015-08-06T12:45:34+00:00
-permalink: /blog/2015/08/how-to-recover-adobe-serial-number-product-keys-for-free/
+permalink: /blog/2015/08/how-to-recover-adobe-serial-number-product-keys-for-free
 aktt_notify_twitter:
   - 'no'
 tags:

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: More Upcoming Interface Work
 date: 2010-03-05T14:51:23+00:00
-permalink: /blog/2010/03/more-upcoming-interface-work/
+permalink: /blog/2010/03/more-upcoming-interface-work
 aktt_notify_twitter:
   - 'no'
 tags:

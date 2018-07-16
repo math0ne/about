@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: emacsclientw.exe Opens New Frames on Windows 7
 date: 2015-08-10T14:21:54+00:00
-permalink: /blog/2015/08/emacsclientw-exe-opens-new-frames-on-windows-7/
+permalink: /blog/2015/08/emacsclientw-exe-opens-new-frames-on-windows-7
 aktt_notify_twitter:
   - 'no'
 tags:

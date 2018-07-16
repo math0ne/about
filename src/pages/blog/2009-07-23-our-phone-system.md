@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Our Phone System
 date: 2009-07-23T06:37:26+00:00
-permalink: /blog/2009/07/our-phone-system/
+permalink: /blog/2009/07/our-phone-system
 tags:
   - Desktop Customization
 ---

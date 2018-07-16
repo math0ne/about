@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Get a Nice View (in Drupal)
 date: 2008-05-28T16:48:40+00:00
-permalink: /blog/2008/05/how-to-get-a-nice-view-in-drupal/
+permalink: /blog/2008/05/how-to-get-a-nice-view-in-drupal
 tags:
   - Drupal
 ---

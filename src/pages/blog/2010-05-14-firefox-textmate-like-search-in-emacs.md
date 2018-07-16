@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Firefox / Textmate Like Search in EMACS
 date: 2010-05-14T10:32:50+00:00
-permalink: /blog/2010/05/firefox-textmate-like-search-in-emacs/
+permalink: /blog/2010/05/firefox-textmate-like-search-in-emacs
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

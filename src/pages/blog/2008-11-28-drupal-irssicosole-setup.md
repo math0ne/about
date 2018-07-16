@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Drupal IRSSI/Console Setup
 date: 2008-11-28T09:10:59+00:00
-permalink: /blog/2008/11/drupal-irssicosole-setup/
+permalink: /blog/2008/11/drupal-irssicosole-setup
 aktt_notify_twitter:
   - 'no'
 tags:

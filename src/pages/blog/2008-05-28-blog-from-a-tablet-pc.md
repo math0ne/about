@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Blog from a Tablet PC
 date: 2008-05-28T18:08:13+00:00
-permalink: /blog/2008/05/blog-from-a-tablet-pc/
+permalink: /blog/2008/05/blog-from-a-tablet-pc
 tags:
   - Uncategorized
 ---

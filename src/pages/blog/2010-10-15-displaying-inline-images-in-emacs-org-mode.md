@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Displaying Inline Images in Emacs org-mode
 date: 2010-10-15T01:17:36+00:00
-permalink: /blog/2010/10/displaying-inline-images-in-emacs-org-mode/
+permalink: /blog/2010/10/displaying-inline-images-in-emacs-org-mode
 aktt_notify_twitter:
   - 'no'
 tags:

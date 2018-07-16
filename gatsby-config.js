@@ -3,6 +3,7 @@ module.exports = {
     title: 'Aidan McQuay - Full Stack Developer and Systems Engineer',
   },
   plugins: [
+    `gatsby-plugin-remove-trailing-slashes`,
     `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Interface for an Upcoming Project
 date: 2010-02-17T12:39:32+00:00
-permalink: /blog/2010/02/interface-for-an-upcoming-project/
+permalink: /blog/2010/02/interface-for-an-upcoming-project
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

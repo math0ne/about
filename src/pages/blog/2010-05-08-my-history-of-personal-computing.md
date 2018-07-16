@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: My History of Personal Computing
 date: 2010-05-08T15:44:14+00:00
-permalink: /blog/2010/05/my-history-of-personal-computing/
+permalink: /blog/2010/05/my-history-of-personal-computing
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

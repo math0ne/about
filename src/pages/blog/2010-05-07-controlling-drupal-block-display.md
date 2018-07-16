@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Controlling Drupal Block Display
 date: 2010-05-07T04:10:58+00:00
-permalink: /blog/2010/05/controlling-drupal-block-display/
+permalink: /blog/2010/05/controlling-drupal-block-display
 aktt_notify_twitter:
   - 'no'
 aktt_tweeted:

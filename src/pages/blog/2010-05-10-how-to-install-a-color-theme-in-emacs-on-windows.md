@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Install a Color Theme in EMACS on Windows
 date: 2010-05-10T06:16:39+00:00
-permalink: /blog/2010/05/how-to-install-a-color-theme-in-emacs-on-windows/
+permalink: /blog/2010/05/how-to-install-a-color-theme-in-emacs-on-windows
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:

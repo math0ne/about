@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: A Building From my Mind
 date: 2008-08-27T01:19:08+00:00
-permalink: /blog/2008/08/a-building-from-my-mind/
+permalink: /blog/2008/08/a-building-from-my-mind
 tags:
   - Uncategorized
 ---
