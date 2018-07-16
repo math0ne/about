@@ -163,7 +163,7 @@ export default class IndexPage extends React.Component {
                 {posts
                   .map(({ node: post }) => (
                     <li key={post.id} style={{ marginBottom: '0px' }}>
-                      <Link style={{ color: '#e2e2e2', fontFamily: 'Source Code Pro', fontWeight: 'bold' }} to={post.fields.slug}>
+                      <Link style={{ color: '#e2e2e2', fontFamily: 'Source Code Pro', fontWeight: 'bold' }} to={post.frontmatter.permalink}>
                         {post.frontmatter.title}
                       </Link>
                       <span style={{ color: '#e2e2e2', fontFamily: 'Source Code Pro Light' }}> &bull; </span>
@@ -195,6 +195,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            permalink
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
