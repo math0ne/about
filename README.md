@@ -2,6 +2,8 @@
 
 Inspired by the Jamstack Architecure; built using React, Mapbox Gl Js, Bulma, and deployed with Netlify.  This website contains content that lives on with the help of @benbalter and the [wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) wordpress module.
 
+Check it out here: http://aidan.codes/
+
 ## Develop this website locally
 
 ### Install pre-requesits
