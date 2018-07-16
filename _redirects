@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+https://aidanmcquay.netlify.com/* https://aidan.codes/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://aidanmcquay.netlify.com/* https://aidan.codes/:splat 301!
