@@ -13,5 +13,5 @@ I spent a few hours today trying to find a completely free program I could use t
 
 http://www.belarc.com/free_download.html
 
-<iframe src="https://www.innerbody.com/embed-map?maptype=state&mapfile=state-ranks.csv&geolocate=false&geolat=&geolng=" width="556" height="347" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dev.htdt.net/embed-map?maptype=state&mapfile=state-ranks.csv&geolocate=false&geolat=&geolng=" width="556" height="347" frameborder="0" scrolling="no"></iframe>
 <div style="width:556px;font-size:12px;color:#888;">Source: <a href="https://www.innerbody.com">InnerBody.com</a></div>
