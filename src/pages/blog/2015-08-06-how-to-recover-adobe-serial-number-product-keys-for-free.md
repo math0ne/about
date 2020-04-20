@@ -8,6 +8,10 @@ aktt_notify_twitter:
 tags:
   - Desktop Customization
 ---
-The other day after my long gaming session with elo boost services from <a style="text-decoration: none;" href="http://elitist-gaming.com/"><span style="text-decoration: none; color: #787878;">elitist-gaming.com</span></a>, I spent a few hours today trying to find a completely free program I could use to recover my serial numbers easily. It seems that it can be recovered from the registry but then has to be de-crypted with a script (such a pain). After trying a few programs this one seems to do it well and is completely free:
+
+I spent a few hours today trying to find a completely free program I could use to recover my serial numbers easily. It seems that it can be recovered from the registry but then has to be de-crypted with a script (such a pain). After trying a few programs this one seems to do it well and is completely free:
 
 http://www.belarc.com/free_download.html
+
+<iframe src="https://www.innerbody.com/embed-map?maptype=state&mapfile=state-ranks.csv&geolocate=false&geolat=&geolng=" width="556" height="347" frameborder="0" scrolling="no"></iframe>
+<div style="width:556px;font-size:12px;color:#888;">Source: <a href="https://www.innerbody.com">InnerBody.com</a></div>
