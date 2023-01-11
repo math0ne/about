@@ -20,7 +20,7 @@
     "gatsby-remark-images": "^1.5.50",
     "gatsby-remark-prismjs": "^2.0.4",
     "gatsby-source-filesystem": "^1.5.23",
-    "gatsby-transformer-remark": "^1.7.44",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.21",
     "gatsby-transformer-yaml": "^1.5.18",
     "github-calendar": "^1.2.1",
